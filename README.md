@@ -18,4 +18,4 @@ Implementar alguns requisitos faltantes na API de places da Clickbus.
 
 # Critérios de avaliação
 - Boas práticas de programação
-- Práticas de VCSe
+- Práticas de VCS
